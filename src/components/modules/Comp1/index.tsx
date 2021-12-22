@@ -8,7 +8,6 @@ const Comp1 = () => {
       <Button href="https://www.google.com" color="red">
         Testing
       </Button>
-      <Button>Change Context</Button>
     </div>
   )
 }
